@@ -3,10 +3,10 @@ An article Retrieval System using chatGPT and LangChain for kaggle dataset '1300
 
 **Article Retrieval System**
 
-![Alt text](file/rag_diag.png)
+![Alt text](./file/rag_diag.png)
 
 **Retrieval Augmented Generation with chatGPT**
-![Alt text](file/rag_app.png)
+![Alt text](./file/rag_app.png)
 
 ## Setup
 1. Create a virtural environment and install the required packages:
